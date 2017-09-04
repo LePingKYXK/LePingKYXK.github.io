@@ -30,11 +30,11 @@
 
 如果，没有当地人的协助，建议去 Bank Hapoalim，它设有专门的外籍人员分行，但是不提供学生账户的开户。
 
-## 4. 电话卡，建议用 Golan Telecom，有英文服务网站，如下：
-<https://www.golantelecom.co.il/web/?gclid=Cj0KEQiA6_TBBRDInaPjhcelt5oBEiQApPeTF2w4o8u1s2ClqF1xY2StxXlh3ICxGIX5HiF8EylfvXgaAk028P8HAQ>
-
-24.9谢克/月包电话，短信，10 GB流量，
-39谢克/月包电话，短息，15 GB流量，还包240分钟国际长途座机，可以打回国内，第二个号码（即家庭套餐）另附 33谢克/月
+## 4. 电话卡：
+建议用 [Golan Telecom](https://www.golantelecom.co.il/web/)，有英文服务网站，网上可以查询每月账单（英文）
+- 9.9谢克/月套餐，100分钟电话，短信无限，100 MB流量
+- 24.9谢克/月套餐，包电话和短信，10 GB流量，
+- 39谢克/月套餐，包电话和短息，15 GB流量，还包240分钟国际长途座机，可以打回国内，第二个号码（即家庭套餐）另附 33谢克/月
 
 ## 5. 签证延长：
  5.1. 博士后先给 Limor 写邮件，请她帮您准备相关的材料。她的邮箱是 limorl@savion.huji.ac.il
@@ -54,7 +54,7 @@
 - 175谢克签证费 + 175谢克多次入境签证费
 
 内务部在轻轨 City Hall 站下车，往市中心方向走 50 米，Mandrain中餐馆斜对门。门口有 Ministry of Interior 标识。路线如下图箭头所示。
-内嵌图片 1
+[https://www.google.co.il/maps/dir/City+Hall/%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%A4%D7%A0%D7%99%D7%9D+-+%D7%A8%D7%A9%D7%95%D7%AA+%D7%94%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%9F+%D7%95%D7%94%D7%94%D7%92%D7%99%D7%A8%D7%94,+Queen+Shlomziyon+St+1,+Jerusalem%E2%80%AD/@31.7801539,35.2218286,18.05z/data=!4m13!4m12!1m5!1m1!1s0x150329d1b691892f:0xc7e1396950f2e621!2m2!1d35.224207!2d31.779457!1m5!1m1!1s0x150329d122280f03:0x912659c6f94875f3!2m2!1d35.2217121!2d31.7804345?hl=en&authuser=0]
 
 内嵌图片 2
 
