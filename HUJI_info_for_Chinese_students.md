@@ -53,7 +53,7 @@
 - 保险单复印件
 - 175谢克签证费 + 175谢克多次入境签证费
 
-内务部在轻轨 City Hall 站下车，往市中心方向走 50 米，Mandrain中餐馆斜对门。门口有 **Ministry of Interior** 标识。[路线如下图箭头所示。
+内务部在轻轨 City Hall 站下车，往市中心方向走 50 米，Mandrain中餐馆斜对门。门口有 **Ministry of Interior** 标识。![路线如下图箭头所示。
 ](https://www.google.co.il/maps/dir/City+Hall/%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%A4%D7%A0%D7%99%D7%9D+-+%D7%A8%D7%A9%D7%95%D7%AA+%D7%94%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%9F+%D7%95%D7%94%D7%94%D7%92%D7%99%D7%A8%D7%94,+Queen+Shlomziyon+St+1,+Jerusalem%E2%80%AD/@31.7801539,35.2218286,18.05z/data=!4m13!4m12!1m5!1m1!1s0x150329d1b691892f:0xc7e1396950f2e621!2m2!1d35.224207!2d31.779457!1m5!1m1!1s0x150329d122280f03:0x912659c6f94875f3!2m2!1d35.2217121!2d31.7804345?hl=en&authuser=0)
 
 内嵌图片 2
