@@ -30,7 +30,7 @@
 这两家银行都可以开学生账户，不收税、不收小额管理费，取钱也不收手续费，且银行卡具有 VISA 功能，可以网上支付。
 开户的时候最好有一个当地人和你一起去，如果遇到不给开学生账户的情况，当地人可以帮你争辩一下。
 
-如果没有当地人的协助，建议去`Bank Hapoalim`![点击查看街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。
+如果没有当地人的协助，建议去位于轻轨`Jaffa center`站与`city hall`站之间的 `Bank Hapoalim`![点击查看街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。
 
 ### 4. 电话卡：
 建议用 [Golan Telecom](https://www.golantelecom.co.il/web/)，有英文服务网站，网上可以查询每月账单（英文）
