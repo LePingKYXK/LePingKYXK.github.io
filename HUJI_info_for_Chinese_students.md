@@ -73,7 +73,7 @@
 你需要去耶路撒冷的内务部（Ministry of Interior）预约。在轻轨 City Hall 站下车，往 Jaffa Center 方向走约 50 米，走到一个小广场后向左转折返走，内务部在 Mandrain中餐馆斜对门。门口有 **Ministry of Interior** 标识。[点击查看Google地图](https://www.google.co.il/maps/dir/City+Hall/%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%A4%D7%A0%D7%99%D7%9D+-+%D7%A8%D7%A9%D7%95%D7%AA+%D7%94%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%9F+%D7%95%D7%94%D7%94%D7%92%D7%99%D7%A8%D7%94,+Queen+Shlomziyon+St+1,+Jerusalem%E2%80%AD/@31.7801539,35.2218286,18.05z/data=!4m13!4m12!1m5!1m1!1s0x150329d1b691892f:0xc7e1396950f2e621!2m2!1d35.224207!2d31.779457!1m5!1m1!1s0x150329d122280f03:0x912659c6f94875f3!2m2!1d35.2217121!2d31.7804345?hl=en&authuser=0)
 [点击查看Google街景](https://www.google.co.il/maps/@31.7803043,35.2215732,3a,50.2y,66.2h,90.98t/data=!3m6!1e1!3m4!1s-WRjDoZk99r6tMHh7py-KQ!2e0!7i13312!8i6656?hl=en&authuser=0)
 
-按照预约的时间到内务部延长签证，需要带上材料有：
+按照预约的时间到内务部延长签证，需要带上材料有（以博士后为例）：
 - 护照
 - 照片
 - 签证申请表（预约的时候在 information 前台拿一张）填好，贴上照片
