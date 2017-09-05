@@ -69,9 +69,10 @@
 
  6.2. 硕士或博士研究生，请先联系所在系里的秘书，请系秘书帮助准备相关的申请材料。
  
-你需要去耶路撒冷的内务部预约，按照预约的时间到内务部延长签证。
-需要带上材料有：
+你需要去耶路撒冷的内务部（Ministry of Interior）预约。在轻轨 City Hall 站下车，往 Jaffa center 方向走约 50 米，走到一个小广场后向左转折返走，内务部在 Mandrain中餐馆斜对门。门口有 **Ministry of Interior** 标识。[点击查看地图](https://www.google.co.il/maps/dir/City+Hall/%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%A4%D7%A0%D7%99%D7%9D+-+%D7%A8%D7%A9%D7%95%D7%AA+%D7%94%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%9F+%D7%95%D7%94%D7%94%D7%92%D7%99%D7%A8%D7%94,+Queen+Shlomziyon+St+1,+Jerusalem%E2%80%AD/@31.7801539,35.2218286,18.05z/data=!4m13!4m12!1m5!1m1!1s0x150329d1b691892f:0xc7e1396950f2e621!2m2!1d35.224207!2d31.779457!1m5!1m1!1s0x150329d122280f03:0x912659c6f94875f3!2m2!1d35.2217121!2d31.7804345?hl=en&authuser=0)
+[点击查看街景](https://www.google.co.il/maps/@31.7803043,35.2215732,3a,50.2y,66.2h,90.98t/data=!3m6!1e1!3m4!1s-WRjDoZk99r6tMHh7py-KQ!2e0!7i13312!8i6656?hl=en&authuser=0)，按照预约的时间到内务部延长签证。
 
+需要带上材料有：
 - 护照
 - 照片
 - 签证申请表（预约的时候在 information 前台拿一张）填好，贴上照片
@@ -81,15 +82,12 @@
 - 保险单复印件
 - 175谢克签证费 + 175谢克多次入境签证费
 
-在轻轨 City Hall 站下车，往 Jaffa center 方向走约 50 米，走到一个小广场后向左转折返走，内务部在 Mandrain中餐馆斜对门。门口有 **Ministry of Interior** 标识。[点击查看地图](https://www.google.co.il/maps/dir/City+Hall/%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%A4%D7%A0%D7%99%D7%9D+-+%D7%A8%D7%A9%D7%95%D7%AA+%D7%94%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%9F+%D7%95%D7%94%D7%94%D7%92%D7%99%D7%A8%D7%94,+Queen+Shlomziyon+St+1,+Jerusalem%E2%80%AD/@31.7801539,35.2218286,18.05z/data=!4m13!4m12!1m5!1m1!1s0x150329d1b691892f:0xc7e1396950f2e621!2m2!1d35.224207!2d31.779457!1m5!1m1!1s0x150329d122280f03:0x912659c6f94875f3!2m2!1d35.2217121!2d31.7804345?hl=en&authuser=0)
-[点击查看街景](https://www.google.co.il/maps/@31.7803043,35.2215732,3a,50.2y,66.2h,90.98t/data=!3m6!1e1!3m4!1s-WRjDoZk99r6tMHh7py-KQ!2e0!7i13312!8i6656?hl=en&authuser=0)
-
 
 ### 7.希伯来大学各校区 360°全景图：
 <http://multimedia.huji.ac.il/tour360/ram/index-e.html>
 页面顶部可以选取各个校区，页面右侧对应于所选校区的景色，还可以查看宿舍内部的样子。页面中间的图片可以用鼠标拖拽 360° 全方位观察。
 
-## 学生证办好之后，需要给 support team 打电话领取 personal code 用于登录学校网络，[各校区 support team 电话](http://ca.huji.ac.il/aboutus/general.shtml)。
+## 以下信息需要再学生证办好之后，给 support team 打电话领取 personal code， 用于登录学校网络，[各校区 support team 电话](http://ca.huji.ac.il/aboutus/general.shtml)。
 ### 8.希伯来大学网络设置介绍：
 <http://ca.huji.ac.il/services/internet/internet.shtml>
 
