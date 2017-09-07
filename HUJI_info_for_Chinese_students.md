@@ -89,6 +89,7 @@
 
 ### 7.希伯来大学各校区 360°全景图：
 <http://multimedia.huji.ac.il/tour360/ram/index-e.html>
+
 页面顶部可以选取各个校区，页面右侧对应于所选校区的缩略图，页面中间的图片可以用鼠标拖拽 360° 全方位观察。除了校园景色，还可以查看宿舍内部的样子。
 
 ## 以下信息需要在学生证办好之后，给 support team 打电话领取 personal code， 用于登录学校网络，[点击查看各校区 support team 电话](http://ca.huji.ac.il/aboutus/general.shtml)。
