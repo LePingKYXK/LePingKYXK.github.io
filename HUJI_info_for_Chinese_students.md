@@ -97,6 +97,7 @@
 
 ### 9.希伯来大学邮箱（hujimail）申请：
 <http://ca.huji.ac.il/services/internet/mail/gmail/index-en.shtml>
+
 hujimail 是基于 Gmail 的邮件系统，非常好用。学校和宿舍的各种通知都会通过 hujimail 发送，而且有无上限的 Google Drive 网盘空间！
 
 ### 10.希伯来大学 VPN 服务
