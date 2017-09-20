@@ -11,7 +11,7 @@
 
 从本·古里安机场到`Givat Ram`，或者`Mount Scopus`大约 62 - 65 谢克（时间约1.5小时，视路况而有增减）；到`Ein Kerem`远一些，价格会稍贵一些。
 
-*对于老同学知道学校的位置，可选择坐[485路](https://abrahamtours.com/theme/airport-transfers/)长途公交车[点击查看485路时刻表](https://www.bus.co.il/otobusimmvc/Line_Travels/1010/485_16_-1069776502?Language=en)从`本·古里安国际机场`到以色列科技馆附近（约16谢克），然后步行约10分钟可到 Givat Ram 校门口。*
+*对于老同学知道学校的位置，可选择坐 [485路](https://abrahamtours.com/theme/airport-transfers/)长途公交车 [点击查看485路时刻表](https://www.bus.co.il/otobusimmvc/Line_Travels/1010/485_16_-1069776502?Language=en)从`本·古里安国际机场`到以色列科技馆附近（约16谢克），然后步行约10分钟可到 Givat Ram 校门口。*
 
 ### 1. 货币兑换：
 `邮局`或者街边的`Change`店均可兑换货币，汇率比银行的要好。
@@ -50,7 +50,7 @@
 
 公交卡是**免费办理**的，不收工本费。办理`普通公交卡`很简单，只用带上护照即可；学生公交卡大致分为两种：`普通学生卡`，`学生年卡`（一学年内无限刷），办理时需要带护照，学生证，入学证明（[登录学校网站](https://www.huji.ac.il/dataj/controller/stu/?)，录入个人信息后打印）。`Jerusalem`的办卡地点在中央车站三楼右手边一直走到头的玻璃大厅里。现场拍照，等立得（排队时间可能会比较长）。办卡人员会根据你的名字发音，在你的公交卡上印上你的希伯来文的名字 :-)
 
-办理`学生年卡`需要预先在[公交公司网站上](http://www.egged.co.il/Article-811,1423-Semester-Annual-Student-Bus-Pass.aspx) 填表，办理结束（或者卡片激活）后，在中央车站三楼`information`处交钱，约1200谢克/年（坐长途汽车，火车也有半价的折扣）。
+办理`学生年卡`需要预先在[egged公交公司网站上](http://www.egged.co.il/Article-811,1423-Semester-Annual-Student-Bus-Pass.aspx) 填表，办理结束（或者卡片激活）后，在中央车站三楼`information`处交钱，约1278谢克/年（坐长途汽车，火车也有半价的折扣）。
 
 **学生公交卡每学年需要激活。新学年开始时，公交公司的相关人员会到希伯来大学学生会办理业务，也可以自行去中央车站办理（均需要带上护照，学生证，入学证明）。**
 
