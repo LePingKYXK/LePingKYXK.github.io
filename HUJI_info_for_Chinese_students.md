@@ -43,7 +43,7 @@
 文科小区附近（学生处宿舍区）
 - Branch Name: Hagiv'a Hatzarfatit
 - Branch Code: 784
-- Address: [Hahagana Street No. 21](https://www.google.co.il/maps/place/21+HaHagana+St,+Jerusalem/@31.801559,35.2375759,18z/data=!4m5!3m4!1s0x1503298c98845cd7:0xb54db159da06dde6!8m2!3d31.8025182!4d35.2382174?hl=en&authuser=0), [点击查看 Google 街景](https://www.google.co.il/maps/@31.8025207,35.2382481,3a,39.7y,88.83h,93.79t/data=!3m7!1e1!3m5!1sqH8rXzmrvq9MOrKJRvnKyQ!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3DqH8rXzmrvq9MOrKJRvnKyQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D356.98648%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=en&authuser=0)
+- Address: [Hahagana Street No. 21](https://www.google.co.il/maps/dir/''/21+HaHagana+St,+Jerusalem/@31.8016953,35.2378687,18z/data=!4m14!4m13!1m5!1m1!1s0x0:0x1c901fd08b1ebc71!2m2!1d35.2383335!2d31.8007105!1m5!1m1!1s0x1503298c98845cd7:0xb54db159da06dde6!2m2!1d35.2382174!2d31.8025182!3e2?hl=en&authuser=0), [点击查看 Google 街景](https://www.google.co.il/maps/@31.8025207,35.2382481,3a,39.7y,88.83h,93.79t/data=!3m7!1e1!3m5!1sqH8rXzmrvq9MOrKJRvnKyQ!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3DqH8rXzmrvq9MOrKJRvnKyQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D356.98648%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=en&authuser=0)
 - Zip code: 9785113
 - Phone: 02-5320733
 - Fax: 02-5819752
