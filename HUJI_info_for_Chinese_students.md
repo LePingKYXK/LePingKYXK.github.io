@@ -35,7 +35,7 @@
 理工科小区附近（在校门口乘坐35路，或者轻轨 Yefe Nof 站下车）
 - Branch Name: Beit Hakerem
 - Branch Code: 694
-- Address: [Avizohar Street No. 3, Beit Hakerem 8](https://www.google.co.il/maps/dir/%D7%92%D7%91%D7%A2%D7%AA+%D7%A8%D7%9D,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D,+%D7%99%D7%A9%D7%A8%D7%90%D7%9C%E2%80%AD/Hapoalim+Bank+-+Beit+Hakerem,+Avizohar+St+8,+Jerusalem/@31.7784069,35.1890943,16.75z/data=!4m13!4m12!1m5!1m1!1s0x1502d7cb0dc08f31:0xbdfce8edaccb436f!2m2!1d35.1967281!2d31.7789763!1m5!1m1!1s0x1502d7b0c9f7e82d:0xfee2894406309def!2m2!1d35.1870198!2d31.7754673?hl=en&authuser=0)
+- Address: [Avizohar Street No. 3, Beit Hakerem 8](https://www.google.co.il/maps/dir/%D7%92%D7%91%D7%A2%D7%AA+%D7%A8%D7%9D,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D,+%D7%99%D7%A9%D7%A8%D7%90%D7%9C%E2%80%AD/Hapoalim+Bank+-+Beit+Hakerem,+Avizohar+St+8,+Jerusalem/@31.7793277,35.1869686,16z/data=!4m15!4m14!1m5!1m1!1s0x1502d7cb0dc08f31:0xbdfce8edaccb436f!2m2!1d35.1967281!2d31.7789763!1m5!1m1!1s0x1502d7b0c9f7e82d:0xfee2894406309def!2m2!1d35.1870198!2d31.7754673!3e3!5i1?hl=en&authuser=0)
 - Zip code: 9626712
 - Phone: 02-6465225
 - Fax: 02-6794423
