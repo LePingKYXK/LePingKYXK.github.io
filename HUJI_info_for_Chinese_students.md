@@ -29,6 +29,26 @@
 这两家银行都可以开学生账户，不收税、不收小额管理费，取钱也不收手续费，且银行卡具有 VISA 功能，可以网上支付。
 开户的时候最好有一个当地人和你一起去，如果遇到不给开学生账户的情况，当地人可以帮你争辩一下。
 
+**感谢生物系的秘书提供的最新的消息， Bank Hapoalim 有两家支行提供学生账户开户**
+
+
+理工科小区附近（在校门口乘坐35路，或者轻轨 Yefe Nof 站下车）
+- Branch Name: Beit Hakerem
+- Branch Code: 694
+- Address: Avizohar Street No. 3, Beit Hakerem 8
+- Zip code: 9626712
+- Phone: 02-6465225
+- Fax: 02-6794423
+
+文科小区附近（学生处宿舍区）
+- Branch Name: Hagiv'a Hatzarfatit
+- Branch Code: 784
+- Address: Hahagana Street No. 21
+- Zip code: 9785113
+- Phone: 02-5320733
+- Fax: 02-5819752
+
+
 如果没有当地人的协助，建议去位于轻轨`Jaffa Center`站与`City Hall`站之间的 `Bank Hapoalim`[点击查看Google街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。
 
 ### 3. 公交车查询网站和 APP： 
