@@ -73,6 +73,11 @@
 办理`学生年卡`需要预先在[egged公交公司网站上](http://www.egged.co.il/Article-811,1423-Semester-Annual-Student-Bus-Pass.aspx) 填表，办理结束（或者卡片激活）后，在中央车站三楼`information`处交钱，约1278谢克/年（坐长途汽车，火车也有半价的折扣）。
 
 **学生公交卡每学年需要激活。新学年开始时，公交公司的相关人员会到希伯来大学学生会办理业务，也可以自行去中央车站办理（均需要带上护照，学生证，入学证明）。**
+**入学证明的查看方式如下**
+(https://github.com/LePingKYXK/LePingKYXK.github.io/tree/master/pictures/登录 HUJI 个人信息_000.png)
+
+
+*更新* 2017年10月egged公交公司是在校门口的行政楼（Sherman Administration Building）二层右手边设立了临时办理处（只在开学一周内办公）。以往是在学生会的小平房，不知道以后会不会有变化，需要问实验室的当地同学。
 
 **当然，也有`日卡`，`周卡`，`月卡`，`学期卡`之类的选择，适合于游客，短期交流的学生或者访问学者，具体情况请咨询办卡处。**
 
