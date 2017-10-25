@@ -74,11 +74,12 @@
 
 **学生公交卡每学年需要激活。新学年开始时，公交公司的相关人员会到希伯来大学学生会办理业务，也可以自行去中央车站办理（均需要带上护照，学生证，入学证明）。**
 **入学证明的查看方式如下**
+登录学校主页 http://new.huji.ac.il/en 点击 `Students`
 ![登录学校主页 http://new.huji.ac.il/en 点击 `Students`](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_000.png "login")
 ![然后点击 `Personal Information` ](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_001.png)
-![按照下图的提示填写信息]((https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_002.png)
-![点击图中红色方框所示内容]((https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_003.png)
-![再点击图中红色方框所示内容]((https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_004.png)
+![按照下图的提示填写信息](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_002.png)
+![点击图中红色方框所示内容](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_003.png)
+![再点击图中红色方框所示内容](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_004.png)
 
 **进入页面之后会看到希伯来文的简短文字，打印页面即可。**
 
