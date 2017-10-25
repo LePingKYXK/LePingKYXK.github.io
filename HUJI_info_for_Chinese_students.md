@@ -74,8 +74,11 @@
 
 **学生公交卡每学年需要激活。新学年开始时，公交公司的相关人员会到希伯来大学学生会办理业务，也可以自行去中央车站办理（均需要带上护照，学生证，入学证明）。**
 **入学证明的查看方式如下**
-(https://github.com/LePingKYXK/LePingKYXK.github.io/tree/master/pictures/登录 HUJI 个人信息_000.png)
-
+![登录学校主页 http://new.huji.ac.il/en 点击 `Students`](https://github.com/LePingKYXK/LePingKYXK.github.io/tree/master/pictures/login_HUJI_persional_info_000.png)
+![然后点击 `Personal Information` ](https://github.com/LePingKYXK/LePingKYXK.github.io/tree/master/pictures/login_HUJI_persional_info_001.png)
+![按照下图的提示填写信息](https://github.com/LePingKYXK/LePingKYXK.github.io/tree/master/pictures/login_HUJI_persional_info_002.png)
+![点击图中红色方框所示内容](https://github.com/LePingKYXK/LePingKYXK.github.io/tree/master/pictures/login_HUJI_persional_info_003.png)
+![再点击图中红色方框所示内容](https://github.com/LePingKYXK/LePingKYXK.github.io/tree/master/pictures/login_HUJI_persional_info_004.png)
 
 *更新* 2017年10月egged公交公司是在校门口的行政楼（Sherman Administration Building）二层右手边设立了临时办理处（只在开学一周内办公）。以往是在学生会的小平房，不知道以后会不会有变化，需要问实验室的当地同学。
 
