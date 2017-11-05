@@ -29,10 +29,10 @@
 这两家银行都可以开学生账户，不收税、不收小额管理费，取钱也不收手续费，且银行卡具有 VISA 功能，可以网上支付。
 开户的时候最好有一个当地人和你一起去，如果遇到不给开学生账户的情况，当地人可以帮你争辩一下。
 
-**感谢生物系的秘书提供的最新的消息， Bank Hapoalim 有两家支行提供学生账户开户**
+**感谢生物系的秘书提供的 2017年 最新的消息，Bank Hapoalim 有两家支行提供学生账户开户**
 
 
-理工科小区附近（在校门口乘坐35路，或者轻轨 Yefe Nof 站下车）
+理工科校区附近（在校门口乘坐35路，或者乘坐轻轨到 Yefe Nof 站下车）
 - Branch Name: Beit Hakerem
 - Branch Code: 694
 - Address: [Avizohar Street No. 3, Beit Hakerem 8](https://www.google.co.il/maps/dir/%D7%92%D7%91%D7%A2%D7%AA+%D7%A8%D7%9D,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D,+%D7%99%D7%A9%D7%A8%D7%90%D7%9C%E2%80%AD/Hapoalim+Bank+-+Beit+Hakerem,+Avizohar+St+8,+Jerusalem/@31.7793277,35.1869686,16z/data=!4m15!4m14!1m5!1m1!1s0x1502d7cb0dc08f31:0xbdfce8edaccb436f!2m2!1d35.1967281!2d31.7789763!1m5!1m1!1s0x1502d7b0c9f7e82d:0xfee2894406309def!2m2!1d35.1870198!2d31.7754673!3e3!5i1?hl=en&authuser=0)
@@ -40,7 +40,7 @@
 - Phone: 02-6465225
 - Fax: 02-6794423
 
-文科小区附近（学生处宿舍区）
+文科校区附近（学生村`students village`宿舍区）
 - Branch Name: Hagiv'a Hatzarfatit
 - Branch Code: 784
 - Address: [Hahagana Street No. 21](https://www.google.co.il/maps/dir/''/21+HaHagana+St,+Jerusalem/@31.8016953,35.2378687,18z/data=!4m14!4m13!1m5!1m1!1s0x0:0x1c901fd08b1ebc71!2m2!1d35.2383335!2d31.8007105!1m5!1m1!1s0x1503298c98845cd7:0xb54db159da06dde6!2m2!1d35.2382174!2d31.8025182!3e2?hl=en&authuser=0), [点击查看 Google 街景](https://www.google.co.il/maps/@31.8025207,35.2382481,3a,39.7y,88.83h,93.79t/data=!3m7!1e1!3m5!1sqH8rXzmrvq9MOrKJRvnKyQ!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3DqH8rXzmrvq9MOrKJRvnKyQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D356.98648%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=en&authuser=0)
@@ -54,6 +54,36 @@
 ### 3. 公交车查询网站和 APP： 
 [公交公司网站](http://www.egged.co.il/HomePage.aspx)
 可以查询耶路撒冷市内公交以及长途车的时刻表。另外，名为`Moovit`的手机 APP 可以查询公交车的实时到站信息。
+
+68路公交车往返于理工科校区`Givat Ram`和文科校区`Mt. Scopus`之间，两个校区互为起点站和终点站。途径中央车站，路线相对较绕，会在犹太社区之间穿行，全程视路况拥堵程度不同约 35 ~ 60 分钟。
+
+42路公交车往返于文科校区`Mt. Scopus`和医学院`Ein Kerem`之间，两个校区互为起点站和终点站，途径理工科校区`Givat Ram`。42路从文科校区`Mt. Scopus`到理工科校区`Givat Ram`这一段路会经过高速，一般情况下这一段比68路快一些（约 20 ~ 30分钟）。但是42路的发车频率很低，1小时一趟。
+
+开学期间会有校车往返于理工科校区`Givat Ram`和文科校区`Mt. Scopus`之间，学生可以免费乘坐。校车的时刻表如下：
+
+*Shuttle From Mount Scopus Campus to Safra Campus*
+
+Scopus bus tunnel    |Student Village North Gate |
+---------------------|-------------------------- |
+7:05 a.m.            |7:10 a.m.|
+9:15 a.m.            |9:20 a.m.|
+11:15 a.m.           |11:20 a.m.|
+1:15 p.m.            |1:20 p.m.|
+5:15 p.m.            |5:20 p.m.|
+6:30 p.m.            |6:35 p.m.|
+**8:00 p.m. – for a limited time**|**8:05PM – for a limited time**|
+ 
+*Shuttle From Safra Campus to Mount Scopus Campus*
+
+High-tech park        |Administration |
+----------------------|---------------
+7:45 a.m.             |7:50 a.m.|
+9:50 a.m.             |9:55 a.m.|
+11:50 a.m.            |11:55 a.m.|
+1:50 p.m.             |1:55 p.m.|
+3:50 p.m.             |3:55 p.m.|
+5:50 p.m.             |5:55 p.m.|
+**7:15 p.m. – for a limited time**|**7:20 p.m. – for a limited time**|
 
 ### 4. 办理公交卡：
 如前所述，以色列的公共交通很发达，公交卡是必备用品。普通公交卡和学生公交卡**均有折扣，且1.5小时内换乘市内任何公共交通工具（公交车，轻轨）刷卡不再扣钱，超过1.5小时后刷卡重新收费。** 
