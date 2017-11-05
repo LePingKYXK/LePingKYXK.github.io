@@ -7,11 +7,11 @@
 **从机场到学校**：以色列的公共交通很发达，从`本·古里安国际机场`出来后，路边就能看到黄色车头白色车身的小巴车。这是从`本·古里安国际机场`到以色列各个城市的正规交通工具 [Nesher sherut](http://www.neshertours.co.il/en/about-us)，坐满10人就会发车。**提供门对门服务，可以把你送到指定的楼下，或者街道**。
 先问司机是不是去 Jerusalem，司机会问你具体去哪里。如果你是到希伯来大学理工科校区，要说`Givat Ram`；如果是去文科校区，要说`Mount Scopus`；如果是去医学院，要说`Ein Kerem`。
 
-**【千万注意！】这三个校区相距较远，一定不要说错了。另外，农学院不在`Jerusalem`，而是另一个城市`Rehovot`，不能坐同一趟车。农学院的同学也可以选择坐火车在`Rehovot`站下车（魏兹曼研究所，Weizmann Institute of Science，的北门）。农学院就在魏兹曼研究所的对门。**
+**【千万注意！】这三个校区相距较远，一定不要说错了。另外，农学院不在`Jerusalem`，而是另一个城市`Rehovot`，不能坐同一趟车。农学院的同学也可以选择坐火车在`Rehovot`站下车（魏兹曼研究所，Weizmann Institute of Science，的北门）。农学院就在魏兹曼研究所西门的对面。**
 
 从本·古里安机场到`Givat Ram`，或者`Mount Scopus`大约 62 - 65 谢克（时间约1.5小时，视路况而有增减）；到`Ein Kerem`远一些，价格会稍贵一些。
 
-*对于老同学知道学校的位置，可选择坐 [485路](https://abrahamtours.com/theme/airport-transfers/)长途公交车 [点击查看485路时刻表](https://www.bus.co.il/otobusimmvc/Line_Travels/1010/485_16_-1069776502?Language=en)从`本·古里安国际机场`到以色列科技馆附近（约16谢克），然后步行约10分钟可到 Givat Ram 校门口。*
+*对于老同学知道学校的位置，可选择坐 [485路](https://abrahamtours.com/theme/airport-transfers/)长途公交车 [点击查看485路时刻表](https://www.bus.co.il/otobusimmvc/Line_Travels/1010/485_16_-1069776502?Language=en)从`本·古里安国际机场`到以色列科技馆附近（约 16谢克），然后步行约 10分钟可到 Givat Ram 校门口。*
 
 ### 1. 货币兑换：
 `邮局`或者街边的`Change`店均可兑换货币，汇率比银行的要好。
@@ -19,7 +19,7 @@
 *不建议去银行兑换外币，或者用外币兑换谢克。银行的汇率不划算且收手续费。*
 
 ### 2. 银行开户:
-自从2015年起，以色列加强了对外籍人士的银行账户管理，很多银行的网点不再受理外籍人士的开户业务。
+自从 2015年起，以色列加强了对外籍人士的银行账户管理，很多银行的网点不再受理外籍人士的开户业务。
 建议去`Discount`银行
 <https://www.discountbank.co.il/DB/en/branch-locator>
 
@@ -30,7 +30,7 @@
 开户的时候最好有一个当地人和你一起去，如果遇到不给开学生账户的情况，当地人可以帮你争辩一下。
 
 **感谢生物系的秘书提供的 2017年 最新的消息，Bank Hapoalim 有两家支行提供学生账户开户**
-
+http://www.bankhapoalim.com/
 
 理工科校区附近（在校门口乘坐35路，或者乘坐轻轨到 Yefe Nof 站下车）
 - Branch Name: Beit Hakerem
@@ -61,7 +61,7 @@
 
 开学期间会有校车往返于理工科校区`Givat Ram`和文科校区`Mt. Scopus`之间，学生可以免费乘坐。校车的时刻表如下：
 
-*Shuttle From Mount Scopus Campus to Safra Campus*
+*Shuttle from Mount Scopus Campus to Safra Campus*
 
 Scopus bus tunnel    |Student Village North Gate |
 ---------------------|-------------------------- |
@@ -71,9 +71,9 @@ Scopus bus tunnel    |Student Village North Gate |
 1:15 p.m.            |1:20 p.m.|
 5:15 p.m.            |5:20 p.m.|
 6:30 p.m.            |6:35 p.m.|
-**8:00 p.m. – for a limited time**|**8:05PM – for a limited time**|
+**8:00 p.m. – for a limited time**|**8:05 p.m. – for a limited time**|
  
-*Shuttle From Safra Campus to Mount Scopus Campus*
+*Shuttle from Safra Campus to Mount Scopus Campus*
 
 High-tech park        |Administration |
 ----------------------|---------------
