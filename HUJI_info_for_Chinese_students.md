@@ -51,7 +51,7 @@ http://www.bankhapoalim.com/
 
 如果没有当地人的协助，建议去位于轻轨`Jaffa Center`站与`City Hall`站之间的 `Bank Hapoalim`[点击查看Google街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。
 
-### 3. 公交车查询网站和 APP： 
+### 3. 耶路撒冷三个校区的交通信息： 
 [公交公司网站](http://www.egged.co.il/HomePage.aspx)
 可以查询耶路撒冷市内公交以及长途车的时刻表。另外，名为`Moovit`的手机 APP 可以查询公交车的实时到站信息。
 
