@@ -157,17 +157,19 @@ High-tech park        |Administration |
 
 页面顶部可以选取各个校区，页面右侧对应于所选校区的缩略图，页面中间的图片可以用鼠标拖拽 360° 全方位观察。除了校园景色，还可以查看宿舍内部的样子。
 
-## 以下信息需要在学生证办好之后，给 support team 打电话领取 personal code， 用于登录学校网络，[点击查看各校区 support team 电话](http://ca.huji.ac.il/aboutus/general.shtml)。
+## 以下信息需要在学生证办好之后，给 support team 打电话领取 personal code， 用于登录学校网络，[点击查看各校区 support team 电话](http://old.ca.huji.ac.il/helpdesk/helpdesk.shtml)。
+
 ### 9.希伯来大学网络设置介绍：
-<http://ca.huji.ac.il/services/internet/internet.shtml>
+<http://old.ca.huji.ac.il/services/internet/internet.shtml>
 
 ### 10.希伯来大学邮箱（hujimail）申请：
-<http://ca.huji.ac.il/services/internet/mail/gmail/index-en.shtml>
+<http://old.ca.huji.ac.il/services/internet/mail/gmail/index-en.shtml>
 
 hujimail 是基于 Gmail 的邮件系统，非常好用。学校和宿舍的各种通知都会通过 hujimail 发送，而且有无上限的 Google Drive 网盘空间！
 
 ### 11.希伯来大学 VPN 服务
-<http://ca.huji.ac.il/services/internet/connect/SambaVPN/index-en.shtml>
+<http://old.ca.huji.ac.il/services/internet/connect/SambaVPN/index-en.shtml>
+
 
 ### 12.希伯来大学校历（2017--2018学年）
 <http://en.academic-secretary.huji.ac.il/book/academic-calendar-201718>
