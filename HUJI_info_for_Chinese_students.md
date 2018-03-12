@@ -49,7 +49,7 @@ http://www.bankhapoalim.com/
 - Fax: 02-5819752
 
 
-如果没有当地人的协助，建议去位于轻轨`Jaffa Center`站与`City Hall`站之间的 `Bank Hapoalim`[点击查看Google街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。
+~~如果没有当地人的协助，建议去位于轻轨`Jaffa Center`站与`City Hall`站之间的 `Bank Hapoalim`[点击查看Google街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。~~
 
 ### 3. 耶路撒冷三个校区的交通信息： 
 [公交公司网站](http://www.egged.co.il/HomePage.aspx)
@@ -117,7 +117,8 @@ High-tech park        |Administration |
 
 **当然，也有`日卡`，`周卡`，`月卡`，`学期卡`之类的选择，适合于游客，短期交流的学生或者访问学者，具体情况请咨询办卡处。**
 
-普通公交卡、普通学生卡充值可以直接在公交车上付钱给司机，**非常合理！因为乘车时才用到公交卡，直接找司机充值很方便，不必要像国内专门跑去充值点。** 当然，也可以在轻轨站自动售票机上用现金或者银行卡充值。 
+~~普通公交卡、普通学生卡充值可以直接在公交车上付钱给司机，**非常合理！因为乘车时才用到公交卡，直接找司机充值很方便，不必要像国内专门跑去充值点。** 当然，也可以在轻轨站自动售票机上用现金或者银行卡充值。 ~~
+**【2018年3月8日新政策】所有公交卡需要在自助充值机上用银行卡或信用卡充值，公交司机不再办理充值业务。自助充值机分布在大部分的公交车站旁边，相对比较方便。当然，在轻轨站自动售票机上也可以给公交卡充值。**
 
 ### 5. 电话卡：
 建议用 [Golan Telecom](https://www.golantelecom.co.il/web/)，有英文服务网站，网上可以查询每月账单（英文）
@@ -128,7 +129,7 @@ High-tech park        |Administration |
 ### 6. 购买锅碗瓢盆，油盐酱醋等生活用品：
 由于以色列本土缺少重工业和轻工业，日用品的价格比较贵，但是也能找到相对便宜的店，比如位于`中央车站`附近，以及`轻轨 HaDavidka站`的 **MAX 杂货店**。绝大部分的商品价格在 5、10、15、20 谢克左右（比如杯子，碗，切菜板，脸盆，桶，马桶刷等），炒菜锅会贵一些（约 70谢克）。
 
-食用油（一般 7 ~ 16谢克），橄榄油（一般 25 ~ 40谢克），食盐（一般 2谢克以下一公斤包装），酱油（一般 10 ~ 18谢克）等调料在大部分超市都有销售，价格不会太贵。中国的香醋（10谢克一瓶）在耶路撒冷只有`Mahane Yehuda菜场`背后的 `Agripas street 47号`的东亚小超市`东西店`有售。可以在`轻轨 HaDavidka站`下，然后穿过一条街来到Agripas street 47号（邮局对门）。[点击查看路线](https://www.google.co.il/maps/dir/Hadavidka/Agripas+St+47,+Jerusalem/@31.7841025,35.2140083,17.78z/data=!4m13!4m12!1m5!1m1!1s0x150329d7e48c537b:0xd9f97d5f1b2d030f!2m2!1d35.215289!2d31.784475!1m5!1m1!1s0x1502d6282f654ec9:0x9ec9d0959882fa9f!2m2!1d35.2143763!2d31.7835636)，[点击查看Google街景](https://www.google.co.il/maps/place/Agripas+St+47,+Jerusalem/@31.783612,35.2143927,3a,75y,178h,90t/data=!3m7!1e1!3m5!1sZlzZpWi-kGcd_EymSvnlTQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DZlzZpWi-kGcd_EymSvnlTQ%26output%3Dthumbnail%26cb_client%3Dsearch.TACTILE.gps%26thumb%3D2%26w%3D86%26h%3D86%26yaw%3D178.17546%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656!4m13!1m7!3m6!1s0x1502d62830c75685:0xe02e2095d06d4ef2!2sAgripas,+Jerusalem!3b1!8m2!3d31.7840278!4d35.2122853!3m4!1s0x1502d6282f654ec9:0x9ec9d0959882fa9f!8m2!3d31.7835531!4d35.2145716)
+食用油（一般 9 ~ 16谢克），橄榄油（一般 25 ~ 40谢克），食盐（一般 2谢克左右一公斤包装），酱油（一般 10 ~ 18谢克）等调料在大部分超市都有销售，价格不会太贵。中国的香醋（10谢克一瓶）在耶路撒冷只有`Mahane Yehuda菜场`背后的 `Agripas street 47号`的东亚小超市`东西店`有售。可以在`轻轨 HaDavidka站`下，然后穿过一条街来到Agripas street 47号（邮局对门）。[点击查看路线](https://www.google.co.il/maps/dir/Hadavidka/Agripas+St+47,+Jerusalem/@31.7841025,35.2140083,17.78z/data=!4m13!4m12!1m5!1m1!1s0x150329d7e48c537b:0xd9f97d5f1b2d030f!2m2!1d35.215289!2d31.784475!1m5!1m1!1s0x1502d6282f654ec9:0x9ec9d0959882fa9f!2m2!1d35.2143763!2d31.7835636)，[点击查看Google街景](https://www.google.co.il/maps/place/Agripas+St+47,+Jerusalem/@31.783612,35.2143927,3a,75y,178h,90t/data=!3m7!1e1!3m5!1sZlzZpWi-kGcd_EymSvnlTQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DZlzZpWi-kGcd_EymSvnlTQ%26output%3Dthumbnail%26cb_client%3Dsearch.TACTILE.gps%26thumb%3D2%26w%3D86%26h%3D86%26yaw%3D178.17546%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656!4m13!1m7!3m6!1s0x1502d62830c75685:0xe02e2095d06d4ef2!2sAgripas,+Jerusalem!3b1!8m2!3d31.7840278!4d35.2122853!3m4!1s0x1502d6282f654ec9:0x9ec9d0959882fa9f!8m2!3d31.7835531!4d35.2145716)
 
 ### 7. 签证延长：
  7.1. 博士后先给 Limor 写邮件，请她协助准备相关的材料（主要是学校出具的申请函）。她的邮箱是 limorl@savion.huji.ac.il
