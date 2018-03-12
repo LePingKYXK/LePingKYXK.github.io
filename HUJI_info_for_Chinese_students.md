@@ -166,14 +166,14 @@ High-tech park        |Administration |
 ![去使馆教育处路线图](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/To_education_embassy.png "map")
 [点击查看Google地图](https://www.google.co.il/maps/dir/Tel+Aviv+-+Savidor+Center,+Tel+Aviv-Yafo/Ben+Yehuda+Street+219,+Tel+Aviv-Yafo/@32.0882908,34.7861196,15.08z/data=!4m15!4m14!1m5!1m1!1s0x151d4bbfb1cd749d:0x29f2f930351f2100!2m2!1d34.798195!2d32.083725!1m5!1m1!1s0x151d4bf56b8fbe93:0xb1b2bea6dbb8623e!2m2!1d34.7752382!2d32.0944617!3e3!5i1?hl=en)
  
- 8.1 去使馆教育处报到
+ **8.1 去使馆教育处提交纸质报到材料（国家公派留学生和访问学者）**
  
- *【再次提醒】 使馆教育处在 Ben Yehuda street 219 号，不是和大使馆同一个楼！*
+ *【再次提醒】 使馆教育处在  Ben Yehuda street 219 号，**和大使馆不在同一个楼！***
  
  按照上述路线去使馆教育处，楼的样子如下图所示。到了之后拨打电话 (+972)-3-6024597 联系教育处**孙鹏程老师**。
 ![使馆教育处的楼](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/entrance_education_embassy.png "entrance")
  
- 8.2 去使馆教育处开具留学证明
+ **8.2 去使馆教育处开具留学证明**
  
  请提前至少半个月联系教育处**孙鹏程老师**预约办理留学证明，电话 (+972)-3-6024597。
  
@@ -190,6 +190,15 @@ High-tech park        |Administration |
   **【注】 博士后和访问学者不需要准备毕业证书，只需要实验室导师（或者学校出具）的证明信即可。**
 
 完成上述预约和将材料准备齐全后，按照上述路线去使馆教育处办理留学证明。一般当天就可以拿到。
+
+ **8.3 从使馆教育处返回**
+ 
+可以原路返回，也可以在 Ben Yehuda street 上乘坐 `4路公交车（也有 4路小巴车）`, 104, 204 到特拉维夫南部的中央车站。顺路可以去**龙店**采购一些猪肉，排骨，豆腐，鱼丸等食品，附近还有卖菜和卖鱼的小店。`龙店地址`：Rosh Pina St 6, Tel Aviv-Yafo. 公交路线如下：
+![从使馆教育处到特拉维夫南部的中央车站](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/entrance_education_embassy.png "entrance")
+
+[点击查看从特拉维夫南部的中央车站到龙店的 Google地图](https://www.google.co.il/maps/dir/32.0564292,34.7804891/Dragon+Chinese+Supermarket,+Rosh+Pina+St+6,+Tel+Aviv-Yafo/@32.0568738,34.7793058,17.74z/data=!4m9!4m8!1m0!1m5!1m1!1s0x151d4b646e8627ef:0xb6c21f5be424f49d!2m2!1d34.780591!2d32.057891!3e2?hl=en&authuser=0)
+
+采购完后到特拉维夫南部的中央车站 6 层坐 405 返回耶路撒冷。**特拉维夫南部的中央车站入口是 4 层，过安检后按照头顶的箭头标识走，坐自动扶梯上到 6 层，直走就能看的 405 长途车的乘车口**。
 
 ### 9.希伯来大学各校区 360°全景图：
 <http://multimedia.huji.ac.il/tour360/ram/index-e.html>
