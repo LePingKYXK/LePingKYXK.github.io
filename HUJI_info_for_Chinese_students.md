@@ -153,19 +153,30 @@ High-tech park        |Administration |
 - 保险单复印件
 - 175谢克签证费 + 175谢克多次入境签证费
 
+办理延长签证很快，当时就能拿到。
+
 ### 8. 使馆相关：
 中国籍留学生来以色列留学，需要在中国驻以色列大使馆教育处报到。目前报到的页面主要针对国家公派留学生和访问学者，而非国家公派留学生仅需要通过各校区的联系人登记个人信息。国家公派留学生和访问学者还需要向使馆教育处提交纸质报到材料。
 
-从耶路撒冷去往中国驻以色列大使馆教育处的路线如下：*(千万注意！使馆教育处在Ben Yehuda street 219 号，不是和大使馆同一个楼！)*
+从耶路撒冷去往中国驻以色列大使馆教育处的路线如下：
+
+*(千万注意！使馆教育处在Ben Yehuda street 219 号，不是和大使馆同一个楼！)*
+
 乘坐公共交通到耶路撒冷中央车站，到三楼找到 `480路长途车`（每10分钟一趟）的发车口，买票乘车。终点站在`特拉维夫市中心Savidor火车站`。下车后在`Arlozorov street` 乘坐`5路公交车`，到 `Dizengoff/Basel站下车`。下车之后往回走到十字路口，再向左步行约6分钟到 `Ben Yehuda street 219 号`地图路线如下所示：
+![去使馆教育处路线图](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/To_education_embassy.png "map")
 [点击查看Google地图](https://www.google.co.il/maps/dir/Tel+Aviv+-+Savidor+Center,+Tel+Aviv-Yafo/Ben+Yehuda+Street+219,+Tel+Aviv-Yafo/@32.0882908,34.7861196,15.08z/data=!4m15!4m14!1m5!1m1!1s0x151d4bbfb1cd749d:0x29f2f930351f2100!2m2!1d34.798195!2d32.083725!1m5!1m1!1s0x151d4bf56b8fbe93:0xb1b2bea6dbb8623e!2m2!1d34.7752382!2d32.0944617!3e3!5i1?hl=en)
  
  8.1 去使馆教育处报到
+ 
  *【再次提醒】 使馆教育处在 Ben Yehuda street 219 号，不是和大使馆同一个楼！*
- 使馆教育处的楼如下图所示：
-![使馆教育处的楼](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/login_HUJI_persional_info_000.png "login")
+ 
+ 按照上述路线去使馆教育处，楼的样子如下图所示。到了之后拨打电话 (+972)-3-6024597 联系教育处**孙鹏程老师**。
+![使馆教育处的楼](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/entrance_education_embassy.png "entrance")
  
  8.2 去使馆教育处开具留学证明
+ 
+ 请提前至少半个月联系教育处**孙鹏程老师**预约办理留学证明，电话 (+972)-3-6024597。
+ 
  开具留学证明需要准备的材料请查看 [使馆教育处网站](http://www.cnemedu.org/publish/portal28/tab6279/info129234.htm)。原文复制如下：
 - 在以连续学习、进修6个月（含）以上者皆可申请开具留学回国证明。
 - 申请者需提前3天通过邮件预约，并根据教育处时间安排亲自到使馆办理。
@@ -176,7 +187,9 @@ High-tech park        |Administration |
 - 留学证明一般不接受代办。
 - 逾期半年未申领，或证明丢失，且不能证明学习经历的，一般不予办理。如确需补办，应由国内用人单位出具公函及证明材料，邮资自理。 
 
-  ** 【注】 博士后和访问学者不需要准备毕业证书，只需要实验室导师（或者学校出具）的证明信即可。**
+  **【注】 博士后和访问学者不需要准备毕业证书，只需要实验室导师（或者学校出具）的证明信即可。**
+
+完成上述预约和将材料准备齐全后，按照上述路线去使馆教育处办理留学证明。一般当天就可以拿到。
 
 ### 9.希伯来大学各校区 360°全景图：
 <http://multimedia.huji.ac.il/tour360/ram/index-e.html>
