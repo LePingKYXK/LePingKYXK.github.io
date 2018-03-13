@@ -195,11 +195,11 @@ High-tech park        |Administration |
 
  **8.3 从使馆教育处返回**
  
-可以原路返回，也可以在 Ben Yehuda street 上乘坐 `4路公交车（也有 4路小巴车）`, 104, 204 到特拉维夫南部的中央车站。顺路可以去**龙店**采购一些猪肉，排骨，豆腐，鱼丸等食品，附近还有卖菜和卖鱼的小店。`龙店地址`：Rosh Pina St 6, Tel Aviv-Yafo. 公交路线如下：
+可以原路返回，也可以在 Ben Yehuda street 上乘坐 `4路公交车（也有 4路小巴车）`, 104, 204 到特拉维夫南部的中央车站。公交路线如下：
 
 ![从使馆教育处到特拉维夫南部的中央车站](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/to_Tel_Aviv_CBS.png "TelAvivCBS")
 
-[点击查看从特拉维夫南部的中央车站到龙店的 Google地图](https://www.google.co.il/maps/dir/32.0564292,34.7804891/Dragon+Chinese+Supermarket,+Rosh+Pina+St+6,+Tel+Aviv-Yafo/@32.0568738,34.7793058,17.74z/data=!4m9!4m8!1m0!1m5!1m1!1s0x151d4b646e8627ef:0xb6c21f5be424f49d!2m2!1d34.780591!2d32.057891!3e2?hl=en&authuser=0)
+顺路可以去**龙店**采购一些猪肉，排骨，豆腐，鱼丸等食品，附近还有卖菜和卖鱼的小店。`龙店地址`：Rosh Pina St 6, Tel Aviv-Yafo. [点击查看从特拉维夫南部的中央车站到龙店的 Google地图](https://www.google.co.il/maps/dir/32.0564292,34.7804891/Dragon+Chinese+Supermarket,+Rosh+Pina+St+6,+Tel+Aviv-Yafo/@32.0568738,34.7793058,17.74z/data=!4m9!4m8!1m0!1m5!1m1!1s0x151d4b646e8627ef:0xb6c21f5be424f49d!2m2!1d34.780591!2d32.057891!3e2?hl=en&authuser=0)
 
 采购完后到特拉维夫南部的中央车站 6 层坐 405 返回耶路撒冷。**特拉维夫南部的中央车站入口是 4 层，过安检后按照头顶的箭头标识走，坐自动扶梯上到 6 层，直走就能看的 405 长途车的乘车口**。
 
