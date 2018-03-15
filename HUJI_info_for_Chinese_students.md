@@ -1,7 +1,7 @@
 # 希伯来大学新生指南
-此页面针对希伯来大学`The Hebrew University of Jerusalem (HUJI)`的新同学可能会遇到的一些生活上的问题，总结了一些生活资讯。希望能给新同学带来一些便利。希伯来大学分为四个主校区，其中三个校区坐落在耶路撒冷（Jerusalem）市内的**不同位置**，分别是位于耶路撒冷东北角的文科校区[`Mount Scopus campus`](https://www.google.co.il/maps/place/Hebrew+University+Mount+Scopus/@31.7941435,35.2414891,17.25z/data=!4m5!3m4!1s0x0:0x3cff7ea704546d02!8m2!3d31.7934213!4d35.2429169?hl=en)（简称 Mt. Scopus），位于耶路撒冷政府区附近的理工科校区[`Edmond J. Safra Campus (Givat Ram)`](https://www.google.co.il/maps/place/The+Hebrew+University+of+Jerusalem,+Giv'at+Ram/@31.7729018,35.1991211,16z/data=!4m5!3m4!1s0x1502d7d634c1fc4b:0xfd04960b8bb80ffc!8m2!3d31.7735665!4d35.19802?hl=en)（简称 Givat Ram），位于耶路撒冷西南角的医学和药学院校区[`Ein Kerem campus`](https://www.google.co.il/maps/place/%D7%94%D7%93%D7%A1%D7%94+%D7%A2%D7%99%D7%9F+%D7%9B%D7%A8%D7%9D%E2%80%AD/@31.7639418,35.1485153,17.5z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x0:0xc036d3155ef957ca!8m2!3d31.765359!4d35.1496531?hl=en)。另外，还有位于 **另一个城市`Rehovot`** 的农学院[`Robert H. Smith Faculty of Agriculture, Food and Environment`](https://www.google.co.il/maps/place/Faculty+of+Agriculture,+Food+and+Environment+Robert+H..+Smith/@31.9047641,34.8041242,19.25z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x1502b6e2885db8a5:0x41b8addd1da33c3b!8m2!3d31.9049904!4d34.8046285?hl=en)。上述主校区在以色列的地理位置可以直接点击查看 Google 地图，校区内的详细地图可以[点击学校网站提供的校园地图查看](http://new.huji.ac.il/en/node/451)。此外还有位于以色列最南部城市`Eilat`，靠近红海的一个海洋研究所。
+此页面针对希伯来大学`The Hebrew University of Jerusalem (HUJI)`的新同学可能会遇到的一些生活上的问题，总结了一些生活资讯。希望能给新同学带来一些便利。希伯来大学分为四个主校区，其中三个校区坐落在耶路撒冷（Jerusalem）市内的**不同位置**。它们分别是位于耶路撒冷东北角的文科校区[`Mount Scopus campus`](https://www.google.co.il/maps/place/Hebrew+University+Mount+Scopus/@31.7941435,35.2414891,17.25z/data=!4m5!3m4!1s0x0:0x3cff7ea704546d02!8m2!3d31.7934213!4d35.2429169?hl=en)（简称 Mt. Scopus），位于耶路撒冷政府区附近的理工科校区[`Edmond J. Safra Campus (Givat Ram)`](https://www.google.co.il/maps/place/The+Hebrew+University+of+Jerusalem,+Giv'at+Ram/@31.7729018,35.1991211,16z/data=!4m5!3m4!1s0x1502d7d634c1fc4b:0xfd04960b8bb80ffc!8m2!3d31.7735665!4d35.19802?hl=en)（简称 Givat Ram），位于耶路撒冷西南角的医学和药学院校区[`Ein Kerem campus`](https://www.google.co.il/maps/place/%D7%94%D7%93%D7%A1%D7%94+%D7%A2%D7%99%D7%9F+%D7%9B%D7%A8%D7%9D%E2%80%AD/@31.7639418,35.1485153,17.5z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x0:0xc036d3155ef957ca!8m2!3d31.765359!4d35.1496531?hl=en)。另外，还有位于 **另一个城市`Rehovot`** 的农学院[`Robert H. Smith Faculty of Agriculture, Food and Environment`](https://www.google.co.il/maps/place/Faculty+of+Agriculture,+Food+and+Environment+Robert+H..+Smith/@31.9047641,34.8041242,19.25z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x1502b6e2885db8a5:0x41b8addd1da33c3b!8m2!3d31.9049904!4d34.8046285?hl=en)。上述主校区在以色列的地理位置可以直接点击查看 Google 地图，校区内的详细地图可以[点击学校网站提供的校园地图查看](http://new.huji.ac.il/en/node/451)。此外还有位于以色列最南部城市`Eilat`，靠近红海的一个海洋研究所。
 
-由于校区之间比较分散，情况也相对复杂，本人在理工科校区 (`Givat Ram`) 做博后，所以以下关于学校的信息大部分是针对在理工科同学。文科、医学、农学院、海洋研究所的同学仅供参考。
+由于校区之间比较分散，本人在理工科校区 (`Givat Ram`) 做博后，对其余校区的情况了解有限，以下的信息大部分是针对在理工科同学。文科、医学、农学院、海洋研究所的同学仅供参考。
 
 ### 0. 从本·古里安国际机场到学校
 **过海关**：排队的时候准备好护照，邀请函，海关的边检人员问完问题之后会给你一张蓝色的纸质小卡片。在出关的自动门上扫一下蓝色卡片的条形码即可过关，然后去提取行李。机场的出口处有换钱的窗口，不用在这里换太多钱（以色列货币称为谢克），因为机场的汇率不好，手续费也贵。建议只换少量的钱，比如用 200 至 300 美元换谢克，作为路费和第一天购买生活用品的花销。
@@ -11,9 +11,9 @@
 
 **【千万注意！】这三个校区相距较远，一定不要说错了。另外，农学院不在`Jerusalem`，而是另一个城市`Rehovot`，不能坐同一趟车。农学院的同学也可以选择从机场坐火车到`Rehovot`站下车（下车地点在魏兹曼研究所，Weizmann Institute of Science，的北门）。农学院就在魏兹曼研究所西门的对面。**
 
-从本·古里安机场到`Givat Ram`，或者`Mount Scopus`大约 62 - 65 谢克（时间约1.5小时，视路况而有增减）；到`Ein Kerem`远一些，价格会稍贵一些。
+从本·古里安机场到`Givat Ram`，或者`Mount Scopus`大约 62 - 65 谢克（时间约1.5小时，视路况而有增减）；到`Ein Kerem`路途较远，价格会稍贵一些。
 
-*对于老同学知道学校的位置，可选择坐 [485路](https://abrahamtours.com/theme/airport-transfers/)长途公交车 [点击查看485路时刻表](https://www.bus.co.il/otobusimmvc/Line_Travels/1010/485_16_-1069776502?Language=en)从`本·古里安国际机场`到以色列科技馆附近（约 16谢克），然后步行约 10分钟可到 Givat Ram 校门口。*
+*对于老同学知道学校的位置，可选择坐 [485路](https://abrahamtours.com/theme/airport-transfers/)长途公交车 [点击查看485路时刻表](https://www.bus.co.il/otobusimmvc/Line_Travels/1010/485_16_-1069776502?Language=en)从`本·古里安国际机场`到以色列科技馆附近（约 16谢克），然后步行约 10 分钟可到 Givat Ram 校门口。*
 
 ### 1. 货币兑换：
 `邮局`或者街边的`Change`店均可兑换货币，汇率比银行的要好。
@@ -53,10 +53,19 @@ http://www.bankhapoalim.com/
 
 ~~如果没有当地人的协助，建议去位于轻轨`Jaffa Center`站与`City Hall`站之间的 `Bank Hapoalim`[点击查看Google街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。~~
 
-### 3.希伯来大学各校区 360°全景图：
+### 3.希伯来大学各校区 360°全景图和宿舍：
 <http://multimedia.huji.ac.il/tour360/ram/index-e.html>
 
 页面顶部可以选取各个校区，页面右侧对应于所选校区的缩略图，页面中间的图片可以用鼠标拖拽 360° 全方位观察。除了校园景色，还可以查看宿舍内部的样子。
+
+希伯来大学会给本科生、硕士生、博士生、博士后（及其家属）以及访问学者（及其家属）提供学生宿舍。学校的宿舍比在外面租房会稍便宜，且文科校区和理工科校区的宿舍区之间还有校车通勤（见下一条），交通也相对方便。**一般而言，联系好导师之后，学校就会给学生安排宿舍。你只需要等通知，或者时不时给实验室秘书写邮件问一下宿舍的申请情况就可以了。**
+
+**文科校区**的宿舍条件总体而言更好，有三片宿舍区，分别是 `Students Village`，`Idelson Dormitories` 和 `Reznick Dormitories`。这三个宿舍区均有两室一厅的家庭房给一家人住（约 3600谢克/月），其中 `Students Village` 和 `Reznick Dormitories` 的家庭房会新一些。如果是单身，也可以住家庭房的其中的一间卧室（约 1600 谢克/月），与别人合用厨房，卫生间，客厅。 
+
+另外，`Reznick Dormitories` 有单身宿舍（内有洗脸池），而厨房和卫生间（含浴室）在宿舍外，与同一层的其他同学合用（男女生分住在不同的楼层），约 1500 谢克/月。每天会有保洁人员来打扫厨房和卫生间。详细的宿舍情况可以点击上面的 360°全景图查看。
+
+**理工科校区**没有家庭房，只有单间宿舍或者两人合用的单间宿舍。Liberman Dormitory 是单间宿舍，**内有独立卫生间和电炉灶（床的斜对面就是炉灶）**，男女生混住在各层，1900谢克/月。Liberman Dormitory 里所谓的家庭房（只有5间）也是单间宿舍，只比单身的单间宿舍大一点点（双人床而已），内部布局基本上和单身单间宿舍一致，3400谢克/月。
+理工科校区的其他宿舍都是两人合住的单间，（内有洗脸池），而厨房和卫生间（含浴室）在宿舍外，与同一层的其他同学合用（男女生分住在不同的楼层），约 1500 谢克/月。房间内有详细的宿舍情况可以点击上面的 360°全景图查看。
 
 ### 4. 耶路撒冷三个校区的交通信息： 
 [公交公司网站](http://www.egged.co.il/HomePage.aspx)
