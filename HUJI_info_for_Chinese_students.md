@@ -1,5 +1,7 @@
 # 希伯来大学新生指南
-此页面针对希伯来大学`The Hebrew University of Jerusalem (HUJI)`的新同学可能会遇到的一些生活上的问题，总结了一些生活资讯。希望能给新同学带来一些便利。由于本人在理工科校区 (`Givat Ram`) 做博后，所以关于学校的信息大部分是针对理工科同学。文科、医学、农学院的同学仅供参考。
+此页面针对希伯来大学`The Hebrew University of Jerusalem (HUJI)`的新同学可能会遇到的一些生活上的问题，总结了一些生活资讯。希望能给新同学带来一些便利。希伯来大学分为四个主校区，其中三个校区坐落在耶路撒冷（Jerusalem）市内的**不同位置**，分别是位于耶路撒冷东北角的文科校区[`Mount Scopus campus`](https://www.google.co.il/maps/place/Hebrew+University+Mount+Scopus/@31.7941435,35.2414891,17.25z/data=!4m5!3m4!1s0x0:0x3cff7ea704546d02!8m2!3d31.7934213!4d35.2429169?hl=en)（简称 Mt. Scopus），位于耶路撒冷政府区附近的理工科校区[`Edmond J. Safra Campus (Givat Ram)`](https://www.google.co.il/maps/place/The+Hebrew+University+of+Jerusalem,+Giv'at+Ram/@31.7729018,35.1991211,16z/data=!4m5!3m4!1s0x1502d7d634c1fc4b:0xfd04960b8bb80ffc!8m2!3d31.7735665!4d35.19802?hl=en)（简称 Givat Ram），位于耶路撒冷西南角的医学和药学院校区[`Ein Kerem campus`](https://www.google.co.il/maps/place/%D7%94%D7%93%D7%A1%D7%94+%D7%A2%D7%99%D7%9F+%D7%9B%D7%A8%D7%9D%E2%80%AD/@31.7639418,35.1485153,17.5z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x0:0xc036d3155ef957ca!8m2!3d31.765359!4d35.1496531?hl=en)。另外，还有位于 **另一个城市`Rehovot`** 的农学院[`Robert H. Smith Faculty of Agriculture, Food and Environment`](https://www.google.co.il/maps/place/Faculty+of+Agriculture,+Food+and+Environment+Robert+H..+Smith/@31.9047641,34.8041242,19.25z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x1502b6e2885db8a5:0x41b8addd1da33c3b!8m2!3d31.9049904!4d34.8046285?hl=en)。上述主校区在以色列的地理位置可以直接点击查看 Google 地图，校区内的详细地图可以[点击学校网站提供的校园地图查看](http://new.huji.ac.il/en/node/451)。此外还有位于以色列最南部城市`Eilat`，靠近红海的一个海洋研究所。
+
+由于校区之间比较分散，情况也相对复杂，本人在理工科校区 (`Givat Ram`) 做博后，所以以下关于学校的信息大部分是针对在理工科同学。文科、医学、农学院、海洋研究所的同学仅供参考。
 
 ### 0. 从本·古里安国际机场到学校
 **过海关**：排队的时候准备好护照，邀请函，海关的边检人员问完问题之后会给你一张蓝色的纸质小卡片。在出关的自动门上扫一下蓝色卡片的条形码即可过关，然后去提取行李。机场的出口处有换钱的窗口，不用在这里换太多钱（以色列货币称为谢克），因为机场的汇率不好，手续费也贵。建议只换少量的钱，比如用 200 至 300 美元换谢克，作为路费和第一天购买生活用品的花销。
@@ -7,7 +9,7 @@
 **从机场到学校**：以色列的公共交通很发达，从`本·古里安国际机场`出来后，路边就能看到黄色车头白色车身的小巴车。这是从`本·古里安国际机场`到以色列各个城市的正规交通工具 [Nesher sherut](http://www.neshertours.co.il/en/about-us)，坐满10人就会发车。**提供门对门服务，可以把你送到指定的楼下，或者街道**。
 先问司机是不是去 Jerusalem，司机会问你具体去哪里。如果你是到希伯来大学理工科校区，要说`Givat Ram`；如果是去文科校区，要说`Mount Scopus`；如果是去医学院，要说`Ein Kerem`。
 
-**【千万注意！】这三个校区相距较远，一定不要说错了。另外，农学院不在`Jerusalem`，而是另一个城市`Rehovot`，不能坐同一趟车。农学院的同学也可以选择坐火车在`Rehovot`站下车（魏兹曼研究所，Weizmann Institute of Science，的北门）。农学院就在魏兹曼研究所西门的对面。**
+**【千万注意！】这三个校区相距较远，一定不要说错了。另外，农学院不在`Jerusalem`，而是另一个城市`Rehovot`，不能坐同一趟车。农学院的同学也可以选择从机场坐火车到`Rehovot`站下车（下车地点在魏兹曼研究所，Weizmann Institute of Science，的北门）。农学院就在魏兹曼研究所西门的对面。**
 
 从本·古里安机场到`Givat Ram`，或者`Mount Scopus`大约 62 - 65 谢克（时间约1.5小时，视路况而有增减）；到`Ein Kerem`远一些，价格会稍贵一些。
 
@@ -51,7 +53,12 @@ http://www.bankhapoalim.com/
 
 ~~如果没有当地人的协助，建议去位于轻轨`Jaffa Center`站与`City Hall`站之间的 `Bank Hapoalim`[点击查看Google街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。~~
 
-### 3. 耶路撒冷三个校区的交通信息： 
+### 3.希伯来大学各校区 360°全景图：
+<http://multimedia.huji.ac.il/tour360/ram/index-e.html>
+
+页面顶部可以选取各个校区，页面右侧对应于所选校区的缩略图，页面中间的图片可以用鼠标拖拽 360° 全方位观察。除了校园景色，还可以查看宿舍内部的样子。
+
+### 4. 耶路撒冷三个校区的交通信息： 
 [公交公司网站](http://www.egged.co.il/HomePage.aspx)
 可以查询耶路撒冷市内公交以及长途车的时刻表。另外，名为`Moovit`的手机 APP 可以查询公交车的实时到站信息。
 
@@ -85,7 +92,7 @@ High-tech park        |Administration |
 5:50 p.m.             |5:55 p.m.|
 **7:15 p.m. – for a limited time**|**7:20 p.m. – for a limited time**|
 
-### 4. 办理公交卡：
+### 5. 办理公交卡：
 如前所述，以色列的公共交通很发达，公交卡是必备用品。普通公交卡和学生公交卡**均有折扣，且1.5小时内换乘市内任何公共交通工具（公交车，轻轨）刷卡不再扣钱，超过1.5小时后刷卡重新收费。** 
 
 在`Jerusalem`乘坐公共交通的花费（其他城市价格类似）
@@ -121,22 +128,22 @@ High-tech park        |Administration |
 
 **【2018年3月8日新政策】所有公交卡需要在自助充值机上用银行卡或信用卡充值，公交司机不再办理充值业务。自助充值机分布在大部分的公交车站旁边，相对比较方便。当然，在轻轨站自动售票机上也可以给公交卡充值。**
 
-### 5. 电话卡：
+### 6. 电话卡：
 建议用 [Golan Telecom](https://www.golantelecom.co.il/web/)，有英文服务网站，网上可以查询每月账单（英文）
 - 9.9谢克/月套餐，100分钟电话，短信无限，100 MB流量
 - 24.9谢克/月套餐，包电话和短信，10 GB流量，
 - 39谢克/月套餐，包电话和短息，15 GB流量，还包240分钟国际长途座机，可以给国内打电话；附加号码（即家庭套餐，最多可添加5个）另加 33谢克/月
 
-### 6. 购买锅碗瓢盆，油盐酱醋等生活用品：
+### 7. 购买锅碗瓢盆，油盐酱醋等生活用品：
 由于以色列本土缺少重工业和轻工业，日用品的价格比较贵，但是也能找到相对便宜的店，比如位于`中央车站`附近，以及`轻轨 HaDavidka站`的 **MAX 杂货店**。绝大部分的商品价格在 5、10、15、20 谢克左右（比如杯子，碗，切菜板，脸盆，桶，马桶刷等），炒菜锅会贵一些（约 70谢克）。
 
 食用油（一般 9 ~ 16谢克），橄榄油（一般 25 ~ 40谢克），食盐（一般 2谢克左右一公斤包装），酱油（一般 10 ~ 18谢克）等调料在大部分超市都有销售，价格不会太贵。中国的香醋（10谢克一瓶）在耶路撒冷只有`Mahane Yehuda菜场`背后的 `Agripas street 47号`的东亚小超市`东西店`有售。可以在`轻轨 HaDavidka站`下，然后穿过一条街来到Agripas street 47号（邮局对门）。[点击查看路线](https://www.google.co.il/maps/dir/Hadavidka/Agripas+St+47,+Jerusalem/@31.7841025,35.2140083,17.78z/data=!4m13!4m12!1m5!1m1!1s0x150329d7e48c537b:0xd9f97d5f1b2d030f!2m2!1d35.215289!2d31.784475!1m5!1m1!1s0x1502d6282f654ec9:0x9ec9d0959882fa9f!2m2!1d35.2143763!2d31.7835636)，[点击查看Google街景](https://www.google.co.il/maps/place/Agripas+St+47,+Jerusalem/@31.783612,35.2143927,3a,75y,178h,90t/data=!3m7!1e1!3m5!1sZlzZpWi-kGcd_EymSvnlTQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DZlzZpWi-kGcd_EymSvnlTQ%26output%3Dthumbnail%26cb_client%3Dsearch.TACTILE.gps%26thumb%3D2%26w%3D86%26h%3D86%26yaw%3D178.17546%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656!4m13!1m7!3m6!1s0x1502d62830c75685:0xe02e2095d06d4ef2!2sAgripas,+Jerusalem!3b1!8m2!3d31.7840278!4d35.2122853!3m4!1s0x1502d6282f654ec9:0x9ec9d0959882fa9f!8m2!3d31.7835531!4d35.2145716)
 
-### 7. 签证延长：
- 7.1. 博士后先给 Limor 写邮件，请她协助准备相关的材料（主要是学校出具的申请函）。她的邮箱是 limorl@savion.huji.ac.il
+### 8. 签证延长：
+ 8.1. 博士后先给 Limor 写邮件，请她协助准备相关的材料（主要是学校出具的申请函）。她的邮箱是 limorl@savion.huji.ac.il
  **【请注意】首次抵达以色列的希伯来大学博士后（国内办理的签证，停留时间一个月）可以免预约免费延长签证，因为学校已经帮你交过签证费了（175谢克），只用更改停留时间为一年。如需要增加多次入境，另加 175谢克。以后每年续签证的相关流程和准备的材料如下**
 
- 7.2. 硕士或博士研究生，请先联系所在系里的秘书，请系秘书帮助准备相关的申请材料。
+ 8.2. 硕士或博士研究生，请先联系所在系里的秘书，请系秘书帮助准备相关的申请材料。
  
 你需要去耶路撒冷的内务部（`Ministry of Interior`）预约。（**2017年新政策，9点之前到内务部延长学生签证，无需预约**）在轻轨 City Hall 站下车，往 Jaffa Center 方向走约 50 米，走到一个小广场后向左折返，内务部在 Mandrain中餐馆斜对门。门口有 **Ministry of Interior** 标识。[点击查看Google地图](https://www.google.co.il/maps/dir/City+Hall/%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%A4%D7%A0%D7%99%D7%9D+-+%D7%A8%D7%A9%D7%95%D7%AA+%D7%94%D7%90%D7%95%D7%9B%D7%9C%D7%95%D7%A1%D7%99%D7%9F+%D7%95%D7%94%D7%94%D7%92%D7%99%D7%A8%D7%94,+Queen+Shlomziyon+St+1,+Jerusalem%E2%80%AD/@31.7801539,35.2218286,18.05z/data=!4m13!4m12!1m5!1m1!1s0x150329d1b691892f:0xc7e1396950f2e621!2m2!1d35.224207!2d31.779457!1m5!1m1!1s0x150329d122280f03:0x912659c6f94875f3!2m2!1d35.2217121!2d31.7804345?hl=en&authuser=0)
 [点击查看Google街景](https://www.google.co.il/maps/@31.7803043,35.2215732,3a,50.2y,66.2h,90.98t/data=!3m6!1e1!3m4!1s-WRjDoZk99r6tMHh7py-KQ!2e0!7i13312!8i6656?hl=en&authuser=0)
@@ -155,7 +162,7 @@ High-tech park        |Administration |
 
 办理延长签证很快，当时就能拿到。
 
-### 8. 使馆相关：
+### 9. 使馆相关：
 中国籍留学生来以色列留学，需要在中国驻以色列大使馆教育处报到。目前报到的页面主要针对国家公派留学生和访问学者，而非国家公派留学生仅需要通过各校区的联系人登记个人信息。国家公派留学生和访问学者还需要向使馆教育处提交纸质报到材料。
 
 提交纸质材料之前，请先联系教育处**孙鹏程老师**预约时间，电话 (+972)-3-6024597 
@@ -168,14 +175,14 @@ High-tech park        |Administration |
 ![去使馆教育处路线图](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/To_education_embassy.png "map")
 [点击查看Google地图](https://www.google.co.il/maps/dir/Tel+Aviv+-+Savidor+Center,+Tel+Aviv-Yafo/Ben+Yehuda+Street+219,+Tel+Aviv-Yafo/@32.0882908,34.7861196,15.08z/data=!4m15!4m14!1m5!1m1!1s0x151d4bbfb1cd749d:0x29f2f930351f2100!2m2!1d34.798195!2d32.083725!1m5!1m1!1s0x151d4bf56b8fbe93:0xb1b2bea6dbb8623e!2m2!1d34.7752382!2d32.0944617!3e3!5i1?hl=en)
  
- **8.1 去使馆教育处提交纸质报到材料（国家公派留学生和访问学者）**
+ **9.1 去使馆教育处提交纸质报到材料（国家公派留学生和访问学者）**
  
  *【再次提醒】 使馆教育处在  Ben Yehuda street 219 号，**和大使馆不在同一个楼！***
  
  按照上述路线去使馆教育处，楼的样子如下图所示。到了之后拨打电话 (+972)-3-6024597 联系教育处**孙鹏程老师**。
 ![使馆教育处的楼](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/entrance_education_embassy.png "entrance")
  
- **8.2 去使馆教育处开具留学证明**
+ **9.2 去使馆教育处开具留学证明**
  
  请提前至少半个月联系教育处**孙鹏程老师**预约办理留学证明，电话 (+972)-3-6024597。
  
@@ -193,7 +200,7 @@ High-tech park        |Administration |
 
 完成上述预约和将材料准备齐全后，按照上述路线去使馆教育处办理留学证明。一般当天就可以拿到。
 
- **8.3 从使馆教育处返回**
+ **9.3 从使馆教育处返回**
  
 可以原路返回，也可以在 Ben Yehuda street 上乘坐 `4路公交车（也有 4路小巴车）`, 104, 204 到特拉维夫南部的中央车站。公交路线如下：
 
@@ -203,10 +210,6 @@ High-tech park        |Administration |
 
 采购完后到特拉维夫南部的中央车站 6 层坐 405 返回耶路撒冷。**特拉维夫南部的中央车站入口是 4 层，过安检后按照头顶的箭头标识走，坐自动扶梯上到 6 层，直走就能看的 405 长途车的乘车口**。
 
-### 9.希伯来大学各校区 360°全景图：
-<http://multimedia.huji.ac.il/tour360/ram/index-e.html>
-
-页面顶部可以选取各个校区，页面右侧对应于所选校区的缩略图，页面中间的图片可以用鼠标拖拽 360° 全方位观察。除了校园景色，还可以查看宿舍内部的样子。
 
 ## 以下信息需要在学生证办好之后，给 support team 打电话领取 personal code， 用于登录学校网络，[点击查看各校区 support team 电话](http://old.ca.huji.ac.il/helpdesk/helpdesk.shtml)。
 
