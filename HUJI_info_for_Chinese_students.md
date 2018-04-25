@@ -18,7 +18,7 @@
 **1.2 从机场到学校**：以色列的公共交通很发达，从`本·古里安国际机场`出来后，路边就能看到黄色车头白色车身的小巴车。这是从`本·古里安国际机场`到以色列各个城市的正规交通工具 [Nesher sherut](http://www.neshertours.co.il/en/about-us)，坐满10人就会发车。**提供门对门服务，可以把你送到指定的楼下，或者街道**。
 先问司机是不是去 Jerusalem，司机会问你具体去哪里。如果你是到希伯来大学理工科校区，要说`Givat Ram`；如果是去文科校区，要说`Mount Scopus`；如果是去医学院，要说`Ein Kerem`。
 
-**【千万注意！】这三个校区相距较远，一定不要说错了。另外，农学院不在`Jerusalem`，而是另一个城市`Rehovot`，不能坐同一趟车。农学院的同学除了乘坐上述的 Nesher sherut 外，也可以选择从机场坐火车到`Rehovot`站下车（下车地点在魏兹曼研究所，Weizmann Institute of Science，的北门）。农学院就在魏兹曼研究所西门的对面。**
+**【千万注意！】这三个校区相距较远，一定不要说错了。另外，农学院不在`Jerusalem`，而是另一个城市`Rehovot`，不能坐同一趟车。农学院的同学除了乘坐上述的开往Rehovot 的 Nesher sherut 外，也可以选择从机场坐火车到`Rehovot`站下车（下车地点在魏兹曼研究所，Weizmann Institute of Science，的北门）。农学院就在魏兹曼研究所西门的对面。**
 
 从本·古里安机场到`Givat Ram`，或者`Mount Scopus`大约 62 - 65 谢克（时间约1.5小时，视路况而有增减）；到`Ein Kerem`路途较远，价格会稍贵一些。
 
@@ -32,7 +32,7 @@
 
 
 ### 2. 货币兑换：
-以色列的货币是谢克（`shekel, 复数为shekels, 以色列人会读作 /∫e ke'lim/。其中 /im/ 是希伯来语 “多，多个”的意思`），也可以用 NIS（实际上是 Israeli new shekel）来表示。目前流通的是第三版谢克，分为纸币和硬币两类。纸币有`20 NIS`，`50 NIS`，`100 NIS`，`200 NIS`，硬币有`10 Agora（即 1毛钱）`, `1/2 NIS（即 5毛钱）`，`1 NIS`，`2 NIS`，`5 NIS`，`10 NIS`。样式可以在[以色列银行的网站上查看](http://www.boi.org.il/en/Currency/CurrentCurrencySeries/Pages/Default.aspx#Top)。
+以色列的货币是谢克（`shekel, 复数为shekels, 以色列人会读作 /∫e ke'lim/。其中 /im/ 是希伯来语 “多，多个”的意思`），也可以用 NIS（实际上是 Israeli new shekel）来表示。目前流通的是2014年启用的第三版谢克，分为纸币和硬币两类。纸币有`20 NIS`，`50 NIS`，`100 NIS`，`200 NIS`，硬币有`10 Agora（即 1毛钱）`, `1/2 NIS（即 5毛钱）`，`1 NIS`，`2 NIS`，`5 NIS`，`10 NIS`。样式可以在[以色列银行的网站上查看](http://www.boi.org.il/en/Currency/CurrentCurrencySeries/Pages/Default.aspx#Top)。【目前（2018年）依旧有少部分第二版谢克在市面上流通，也可以顺手在上述网站认一认】
 
 `邮局`或者街边的`Change`店均可兑换货币，汇率比银行的要好。
 【注意】去 Change 店兑换之前，先在 Google 上查询一下兑换汇率，并多问几家 Change 店的兑换价格，觉得合理就兑换，不要只问一家。
@@ -191,7 +191,7 @@ High-tech park        |Administration |
 
 办理延长签证很快，当时就能拿到。
 
-### 10. 使馆相关：
+### 10. 中国大使馆相关：
 中国籍留学生来以色列留学，需要在中国驻以色列大使馆教育处报到。目前报到的页面主要针对国家公派留学生和访问学者，而非国家公派留学生仅需要通过各校区的联系人登记个人信息。国家公派留学生和访问学者还需要向使馆教育处提交纸质报到材料。
 
 提交纸质材料之前，请先联系教育处**孙鹏程老师**预约时间，电话 (+972)-3-6024597 
@@ -274,3 +274,17 @@ hujimail 是基于 Gmail 的邮件系统，非常好用。学校和宿舍的各�
 
 ### 14.希伯来大学校历（2017--2018学年）
 <http://en.academic-secretary.huji.ac.il/book/academic-calendar-201718>
+
+## 生活篇
+### 15. 希伯来大学理工科校区周边景点
+Whol Rose Garden公园
+[以色列国家博物馆](http://www.imj.org.il/en/#page-1)
+圣经地博物馆
+以色列国会大厦
+以色列科技馆
+电影院
+
+### 16. 希伯来大学理工科校区周边超市
+
+### 17. 耶路撒冷综合购物商店（shopping mall）
+
