@@ -328,7 +328,7 @@ Guatemala street被我们戏称为`瓜街`，周边生活气息浓郁，有[Shuf
 [中央车站旁边的急诊](https://www.google.co.il/maps/place/Terem+Romema/@31.7901461,35.1997249,17.86z/data=!4m5!3m4!1s0x0:0x8ee3468e0cf8712b!8m2!3d31.7907687!4d35.200432?hl=en&authuser=0)，似乎是24小时的急诊室，可以直接去不用预约， **记得带上护照和保险卡。**
 
 ### 18. 希伯来大学理工科校区周边景点
-[Whol Rose Garden公园](https://www.google.co.il/maps/place/Wohl+Rose+Garden/@31.7754285,35.2051199,15.56z/data=!4m5!3m4!1s0x0:0x24a705182830548c!8m2!3d31.7791643!4d35.2036929?hl=en&authuser=0)
+[Wohl Rose Garden公园](https://www.google.co.il/maps/place/Wohl+Rose+Garden/@31.7754285,35.2051199,15.56z/data=!4m5!3m4!1s0x0:0x24a705182830548c!8m2!3d31.7791643!4d35.2036929?hl=en&authuser=0)
 
 [以色列国家博物馆](http://www.imj.org.il/en/#page-1)，[点击查看地图](https://www.google.co.il/maps/place/The+Israel+Museum,+Jerusalem/@31.7754285,35.2051199,15.56z/data=!3m1!5s0x1502d7d1d54b53b1:0x1e314697c4beb19b!4m5!3m4!1s0x0:0x748e59f4740b0f83!8m2!3d31.7721504!4d35.2040952?hl=en&authuser=0)
 
