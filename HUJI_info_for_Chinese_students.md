@@ -1,17 +1,28 @@
 # 希伯来大学新生指南
-此页面针对希伯来大学`The Hebrew University of Jerusalem (HUJI)`的新同学可能会遇到的一些生活上的问题，总结了一些生活资讯。希望能给新同学带来一些便利。希伯来大学分为四个主校区，其中三个校区坐落在耶路撒冷（Jerusalem）市内的**不同位置**。它们分别是位于耶路撒冷东北角的文科校区[`Mount Scopus campus`](https://www.google.co.il/maps/place/Hebrew+University+Mount+Scopus/@31.7941435,35.2414891,17.25z/data=!4m5!3m4!1s0x0:0x3cff7ea704546d02!8m2!3d31.7934213!4d35.2429169?hl=en)（简称 Mt. Scopus），位于耶路撒冷政府区附近的理工科校区[`Edmond J. Safra Campus (Givat Ram)`](https://www.google.co.il/maps/place/The+Hebrew+University+of+Jerusalem,+Giv'at+Ram/@31.7729018,35.1991211,16z/data=!4m5!3m4!1s0x1502d7d634c1fc4b:0xfd04960b8bb80ffc!8m2!3d31.7735665!4d35.19802?hl=en)（简称 Givat Ram），位于耶路撒冷西南角的医学和药学院校区[`Ein Kerem campus`](https://www.google.co.il/maps/place/%D7%94%D7%93%D7%A1%D7%94+%D7%A2%D7%99%D7%9F+%D7%9B%D7%A8%D7%9D%E2%80%AD/@31.7639418,35.1485153,17.5z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x0:0xc036d3155ef957ca!8m2!3d31.765359!4d35.1496531?hl=en)。另外，还有位于 **另一个城市`Rehovot`** 的农学院[`Robert H. Smith Faculty of Agriculture, Food and Environment`](https://www.google.co.il/maps/place/Faculty+of+Agriculture,+Food+and+Environment+Robert+H..+Smith/@31.9047641,34.8041242,19.25z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x1502b6e2885db8a5:0x41b8addd1da33c3b!8m2!3d31.9049904!4d34.8046285?hl=en)。上述主校区在以色列的地理位置可以直接点击查看 Google 地图，校区内的详细地图可以[点击学校网站提供的校园地图查看](http://new.huji.ac.il/en/node/451)。此外还有位于以色列最南部城市`Eilat`，靠近红海的一个海洋研究所。
+此页面针对希伯来大学`The Hebrew University of Jerusalem (HUJI)`的新同学可能会遇到的一些生活上的问题，总结了一些生活资讯。希望能给新同学带来一些便利。希伯来大学分为四个主校区，其中三个校区坐落在耶路撒冷（Jerusalem）市内的**不同位置**。它们分别是位于耶路撒冷东北角的文科校区[`Mount Scopus campus`](https://www.google.co.il/maps/place/Hebrew+University+Mount+Scopus/@31.7941435,35.2414891,17.25z/data=!4m5!3m4!1s0x0:0x3cff7ea704546d02!8m2!3d31.7934213!4d35.2429169?hl=en)（简称 Mt. Scopus），位于耶路撒冷政府区附近的理工科校区[`Edmond J. Safra Campus at Givat Ram`](https://www.google.co.il/maps/place/The+Hebrew+University+of+Jerusalem,+Giv'at+Ram/@31.7729018,35.1991211,16z/data=!4m5!3m4!1s0x1502d7d634c1fc4b:0xfd04960b8bb80ffc!8m2!3d31.7735665!4d35.19802?hl=en)（简称 Givat Ram），位于耶路撒冷西南角的医学和药学院校区[`Ein Kerem campus`](https://www.google.co.il/maps/place/%D7%94%D7%93%D7%A1%D7%94+%D7%A2%D7%99%D7%9F+%D7%9B%D7%A8%D7%9D%E2%80%AD/@31.7639418,35.1485153,17.5z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x0:0xc036d3155ef957ca!8m2!3d31.765359!4d35.1496531?hl=en)。另外，还有位于 **另一个城市`Rehovot`** 的农学院[`Robert H. Smith Faculty of Agriculture, Food and Environment`](https://www.google.co.il/maps/place/Faculty+of+Agriculture,+Food+and+Environment+Robert+H..+Smith/@31.9047641,34.8041242,19.25z/data=!4m8!1m2!2m1!1sThe+Hebrew+University+of+Jerusalem,+Ein+Kerem,+Jerusalem!3m4!1s0x1502b6e2885db8a5:0x41b8addd1da33c3b!8m2!3d31.9049904!4d34.8046285?hl=en)。上述主校区在以色列的地理位置可以直接点击查看 Google 地图，校区内的详细地图可以[点击学校网站提供的校园地图查看](http://new.huji.ac.il/en/node/451)。此外还有位于以色列最南部城市`Eilat`，靠近红海的一个海洋研究所。
 
-由于校区之间比较分散，本人在理工科校区 (`Givat Ram`) 做博后，对其余校区的情况了解有限，以下的信息大部分是针对在理工科同学。文科、医学、农学院、海洋研究所的同学仅供参考。
+由于校区之间比较分散，本人（2013年6月6号至2018年5月30号期间）在理工科校区 (`Givat Ram`) 做博后，对其余校区的情况了解有限，以下的信息大部分是针对在理工科同学。文科、医学、农学院、海洋研究所的同学仅供参考。
 
 ### 0. 首次来以色列必带的物品清单（基础版）
-- **护照；邀请函；另外，对于国家公派留学生或访问学者，千万别忘了带报到材料！**
-- 换洗的内衣、内裤、袜子；换洗的床单、被罩、枕套，秋衣、秋裤；T恤；长袖衫（或衬衫）；薄毛衣；薄羽绒服（或棉服，或冲锋衣）；毛巾2条；帽子（冬、夏）；围巾；墨镜；**多买几只牙刷！多买几只牙刷！多买几只牙刷！**
-- **电饭煲（强烈建议带）**；笔记本电脑；移动硬盘；U盘；手机；耳机；移动电源；**2个全球通用旅行转接头`[注]`。一个永久插在笔记本电脑的电源上，另一个插在寝室的插座上。再带一个接线板，这样电饭煲，手机，移动电源都可以直接插在接线板上，不用再配转接头了。**
-
-  -【注意】以色列的插座类似于德国标准的插座样式，但是插孔较细。如果买德标转接头，可能插不进去…… **因此强烈建议买全球通用旅行转接头（如下图）**
+* **护照；邀请函；另外，对于国家公派留学生或访问学者，千万别忘了带报到材料！**
+* 换洗的内衣、内裤、袜子；换洗的床单、被罩、枕套，秋衣、秋裤；T恤；长袖衫（或衬衫）；薄毛衣；薄羽绒服（或棉服，或冲锋衣）；毛巾2条；帽子（冬、夏）；围巾；墨镜；**多买几只牙刷！多买几只牙刷！多买几只牙刷！**
+* **电饭煲（强烈建议带）**；笔记本电脑；移动硬盘；U盘；手机；耳机；移动电源；**2个全球通用旅行转接头`[注]`。一个永久插在笔记本电脑的电源上，另一个插在寝室的插座上。再带一个接线板，这样电饭煲，手机，移动电源都可以直接插在接线板上，不用再配转接头了。**
+    * *【注意】以色列的插座类似于德国标准的插座样式，但是插孔较细。如果买德标转接头，可能插不进去…… **因此强烈建议买全球通用旅行转接头（如下图）***
  
  ![](https://github.com/LePingKYXK/LePingKYXK.github.io/blob/master/pictures/adapter.png)
-   
+
+**关于学生机票**
+
+感谢`农学院的徐慧同学`提供的海南航空留学生票信息（可多加一件行李），流程如下：
+
+海航国际服务热线 +86 (898) 95339‬
+
+1. 打电话定留学生票（支付可用信用卡 微信 储蓄卡）；
+1. 留邮箱 对方发送邮件给我 然后回复邮件提供留学生身份证明文件；
+1. 如果还需要更多件行李的情况，可以电话中转接官网服务多订一件行李 （官网提前预定打8折）。
+    * *【注意】电话订票系统和官网不同，所以价格会有出入。比如，5月29号的机票官网票价 378美刀，电话票价 411美刀，但是留学生票只能通过电话订购。*
+
+
 ### 1. 从本·古里安国际机场到希伯来大学各校区
 **1.1 过海关**：排队的时候准备好护照，邀请函，海关的边检人员问完问题之后会给你一张蓝色的纸质小卡片。在出关的自动门上扫一下蓝色卡片的条形码即可过关，然后去提取行李。机场的出口处有换钱的窗口，不用在这里换太多钱（以色列货币称为`谢克，shekel`），因为机场的汇率不好，手续费也贵。建议只换少量的钱，比如用 200 至 300 美元换谢克，作为路费和第一天购买生活用品的花销。
 
