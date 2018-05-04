@@ -348,7 +348,7 @@ Guatemala street被我们戏称为`瓜街`，周边生活气息浓郁，有[Shuf
 
 #### 大马士革门阿拉伯市场`【注】`
 乘坐轻轨到大马士革门站下车
-- 文科校区的同学也可以乘坐阿拉伯公交车`201路`（4.7谢克/次，还可以买30谢克10张的打洞车票）到大马士革门下车，步行两分钟即可到阿拉伯市场。返回乘坐同一趟车回文科校区。阿拉伯公交周六也开，出行很方便！
+- 住在文科校区的同学也可以乘坐阿拉伯公交车`201路`（4.7谢克/次，还可以买30谢克10张的打洞车票）到大马士革门下车，步行两分钟即可到阿拉伯市场。返回乘坐同一趟车回文科校区。阿拉伯公交周六也开，出行很方便！
 
 【注意】在敏感时期，如阿拉伯人和犹太人发生冲突期间（注意关注当地新闻），不建议去阿拉伯市场，避免被误伤。
 
@@ -358,16 +358,16 @@ Guatemala street被我们戏称为`瓜街`，周边生活气息浓郁，有[Shuf
 [Malha mall](https://www.google.co.il/maps/place/Malha+Mall/@31.75171,35.1884276,17.39z/data=!4m5!3m4!1s0x0:0x1bbea48c585cde51!8m2!3d31.7516012!4d35.187316?hl=en&authuser=0) 也叫Jerusalem mall，是位于耶路撒冷南部，靠近耶路撒冷 Malha火车站的一个综合商场。
 
 乘车路线
-- 理工科校区的同学可以先乘 68路到中央车站（**下车后不要过马路，往回走到轻轨附近的31路车站**），再换乘`31路`到`Teddy Stadium站`下车。返回时乘坐同一趟车。也可以从理工科校区西南门（42路的出口）步行到[Giv'at Mordekhai Junction : Herzog/Shakhal](https://www.google.co.il/maps/place/%D7%A9%D7%97''%D7%9C%2F%D7%94%D7%9C%D7%A8%E2%80%AD/@31.7659444,35.1951544,16.98z/data=!4m5!3m4!1s0x1502d7c0bf3ce625:0x48df83d718696d7a!8m2!3d31.7659456!4d35.1940906?hl=en&authuser=0)，乘坐`6路`到`Teddy Stadium站`下车。返回时都需要到中央车站再坐`68路`回理工科校区。
-- 文科校区的同学可以乘坐`19路`直达`Teddy Stadium站`，返回时乘坐同一趟车。
+- 住在理工科校区的同学 (路线 a) 可以先乘 68路到中央车站（**下车后不要过马路，往回走到轻轨附近的31路车站**），再换乘`31路`到`Teddy Stadium站`下车。返回时乘坐同一趟车。 (路线 b) 也可以从理工科校区西南门（42路的出口）步行到[Giv'at Mordekhai Junction : Herzog/Shakhal](https://www.google.co.il/maps/place/%D7%A9%D7%97''%D7%9C%2F%D7%94%D7%9C%D7%A8%E2%80%AD/@31.7659444,35.1951544,16.98z/data=!4m5!3m4!1s0x1502d7c0bf3ce625:0x48df83d718696d7a!8m2!3d31.7659456!4d35.1940906?hl=en&authuser=0)，乘坐`6路`到`Teddy Stadium站`下车。返回时都需要到中央车站再坐`68路`回理工科校区。
+- 住在文科校区的同学可以乘坐`19路`直达`Teddy Stadium站`，返回时乘坐同一趟车。
 - 住在Guatemala street的同学可以乘坐`35路`直达`Teddy Stadium站`，返回时乘坐同一趟车。
 
 [Hadar mall](https://www.google.co.il/maps/place/Hadar+Mall/@31.7548466,35.211968,16.6z/data=!4m5!3m4!1s0x0:0x63c6b4919eec3935!8m2!3d31.7535461!4d35.2135004?hl=en&authuser=0)，是位于东南部的一个综合商场，内有 `Nike工厂店`，稍稍比街面的Nike店便宜一点点。
 
 乘车路线
-- 理工科校区的同学可以先乘`68路`到校门口，再换乘`14路`到`Hazaz Blvd/Herzog站`下车，再换乘`15路`到`Hadar Mall/Pierre Koenig站`下车。返回时乘坐15路到中央车站再换乘68路回理工科校区。
-- 文科校区的同学可以乘坐`34路`直达`Hadar Mall/Pierre Koenig站`，返回时乘坐同一趟车。
-- 住在Guatemala street的同学可以乘坐`10路`直达`Hadar Mall/Pierre Koenig站`，返回时乘坐同一趟车。
+- 住在理工科校区的同学可以先乘`68路`到校门口，再换乘`14路`到`Hazaz Blvd/Herzog站`下车，再换乘`15路`到`Hadar Mall/Pierre Koenig站`下车。返回时乘坐15路到中央车站再换乘68路回理工科校区。
+- 住在文科校区的同学可以乘坐`34路`直达`Hadar Mall/Pierre Koenig站`，返回时乘坐同一趟车。
+- 住在 Guatemala street的同学可以乘坐`10路`直达`Hadar Mall/Pierre Koenig站`，返回时乘坐同一趟车。
 
 [Mamilla mall](https://www.google.co.il/maps/place/Alrov+Mamilla+Avenue/@31.7723944,35.2206059,15.56z/data=!4m5!3m4!1s0x0:0xda68c21d30d73a99!8m2!3d31.777721!4d35.2238041?hl=en&authuser=0)，是位于耶路撒冷老城附近（靠近Jaffa Gate）的一条商业步行街。
 
