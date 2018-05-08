@@ -84,6 +84,7 @@
 http://www.bankhapoalim.com/
 
 **开户时带上护照，身份证（或者驾照）**
+
 理工科校区附近（在校门口乘坐35路，或者乘坐轻轨到 Yefe Nof 站下车）
 - Branch Name: Beit Hakerem
 - Branch Code: 694
