@@ -104,7 +104,7 @@ http://www.bankhapoalim.com/
 
 ~~如果没有当地人的协助，建议去位于轻轨`Jaffa Center`站与`City Hall`站之间的 `Bank Hapoalim`[点击查看Google街景](https://www.google.co.il/maps/@31.781997,35.2196132,3a,50.5y,181.45h,110.63t/data=!3m6!1e1!3m4!1sAF1QipNylNQyx4G6I4NRbDyzmyA5OHCJJGEiWvE-NI_4!2e10!7i5376!8i2688?hl=en&authuser=0)，它设有外籍人员柜台，但是不提供学生账户的开户。~~
 
-## 4.希伯来大学各校区 360°全景图和宿舍：
+## 4. 希伯来大学各校区 360°全景图和宿舍：
 <http://multimedia.huji.ac.il/tour360/ram/index-e.html>
 
 页面顶部可以选取各个校区，页面右侧对应于所选校区的缩略图，页面中间的图片可以用鼠标拖拽 360° 全方位观察。除了校园景色，还可以查看宿舍内的设施。
@@ -313,23 +313,23 @@ High-tech park        |Administration |
 
 # 希伯来大学相关内容
 
-## 11.希伯来大学四个主校区的邮政地址
+## 11. 希伯来大学四个主校区的邮政地址
 <https://new.huji.ac.il/en/page/6498>
 
-## 12.希伯来大学校历（2017--2018学年）
+## 12. 希伯来大学校历（2017--2018学年）
 <http://en.academic-secretary.huji.ac.il/book/academic-calendar-201718>
 
 **以下信息需要在学生证办好之后，给 support team 打电话领取 personal code， 用于登录学校网络，[点击查看各校区 support team 电话](http://old.ca.huji.ac.il/helpdesk/helpdesk.shtml)。**
 
-## 13.希伯来大学网络设置介绍：
+## 13. 希伯来大学网络设置介绍：
 <http://old.ca.huji.ac.il/services/internet/internet.shtml>
 
-## 14.希伯来大学邮箱（hujimail）申请：
+## 14. 希伯来大学邮箱（hujimail）申请：
 <http://old.ca.huji.ac.il/services/internet/mail/gmail/index-en.shtml>
 
 hujimail 是基于 Gmail 的邮件系统，非常好用。学校和宿舍的各种通知都会通过 hujimail 发送，而且有无上限的 Google Drive 网盘空间！
 
-## 15.希伯来大学 VPN 服务
+## 15. 希伯来大学 VPN 服务
 <http://old.ca.huji.ac.il/services/internet/connect/SambaVPN/index-en.shtml>
 
 # 生活篇
